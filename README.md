@@ -1,4 +1,4 @@
-# Client RetentionForecasting
+# Client Retention Forecasting
 
 **Client Retention Forecasting** is a data-driven technique used by businesses to forecast which of their customers are likely to stop using their services or products shortly. Here's a breakdown of what it entails:
 
